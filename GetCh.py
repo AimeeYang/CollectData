@@ -4,6 +4,10 @@ import selenium
 #TODO  for vedio part:
 # one way use you-get (github project)
 # second way use spider tech
+
+# login
+# (1) form login
+# (2) ajax login
 materailUrls = []
 
 def nextPage():
